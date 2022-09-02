@@ -1,12 +1,7 @@
 ## 你好呀 👋
 歡迎來到雙龍體育
-<!--
+## 如何幫助雙龍體育解決問題
+＃ 聯繫support@ssport.nde.tw
+## 幫助雙龍體育撰寫幫助中心
+進入https://github.com/ssangyongsportsorg/help/tree/main/docs點擊編輯文章或添加文章
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
